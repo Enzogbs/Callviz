@@ -43,7 +43,7 @@ The primary objective of this project is to gain practical experience in integra
 * Requests
 * Pandas
 
-## Usage
+## Usage:
 
 * Clone the repository to your local machine.
 * Install dependencies using pip.
