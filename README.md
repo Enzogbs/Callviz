@@ -38,6 +38,7 @@ The primary objective of this project is to gain practical experience in integra
 ## Dependencies:
 
 * Python 3.x
+* Keras
 * Flask
 * Streamlit
 * Requests
